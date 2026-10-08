@@ -42,6 +42,7 @@ body {
 .container input{
     border: 1px solid lightgray;
     border-color: lightgray;
+    padding-top: 20px;
    
 }
 
